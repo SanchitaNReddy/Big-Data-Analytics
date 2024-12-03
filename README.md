@@ -13,7 +13,7 @@ This project focuses on analyzing large-scale e-commerce dataset using Apache Sp
 3. Visualize data to uncover insights such as regional sales patterns and customer spending habits.
 
 ## Technologies
-Programming Language: Python 3+
-Big Data Framework: Apache Spark 3.4.0
-Visualization Tools: Matplotlib, Seaborn (for charts and plots)
-Development Environment: Jupyter Notebook, Docker (for reproducible environments)
+1. Programming Language: Python 3+
+2. Big Data Framework: Apache Spark 3.4.0
+3. Visualization Tools: Matplotlib, Seaborn (for charts and plots)
+4. Development Environment: Jupyter Notebook, Docker (for reproducible environments)
